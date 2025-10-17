@@ -20,12 +20,7 @@ void main() {
     sum = sum + first;
   }
   print(sum);
-
   //////////////////
-  '''
-  for (int i = 1; i <= 11; i +2) {
-    for (x=0 ;true ; x++) print(x);
-مكملتهمش ملحقتش  }'''
 
 
 
